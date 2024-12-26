@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Spring Boot Introduction",
+    "desc": "A brief introduction to Spring Boot.",
+    "status": "ACTIVE",
+    "contentType": "ARTICLE",
+    "date_created": "2024-12-01T10:15:30",
+    "date_updated": "2024-12-05T14:20:00",
+    "url": "https://example.com/spring-boot-intro"
+  },
+  {
+    "id": 2,
+    "title": "Docker Basics",
+    "desc": "Getting started with Docker for beginners.",
+    "status": "ARCHIVED",
+    "contentType": "VIDEO",
+    "date_created": "2024-11-20T08:30:00",
+    "date_updated": "2024-12-10T12:45:00",
+    "url": "https://example.com/docker-basics"
+  },
+  {
+    "id": 3,
+    "title": "React State Management",
+    "desc": "An overview of state management in React.",
+    "status": "DRAFT",
+    "contentType": "ARTICLE",
+    "date_created": "2024-12-15T11:00:00",
+    "date_updated": "2024-12-18T15:30:00",
+    "url": "https://example.com/react-state"
+  },
+  {
+    "id": 4,
+    "title": "Kubernetes Deployment",
+    "desc": "Guide to deploying applications in Kubernetes.",
+    "status": "ACTIVE",
+    "contentType": "DOCUMENT",
+    "date_created": "2024-10-10T09:00:00",
+    "date_updated": "2024-12-12T16:00:00",
+    "url": "https://example.com/kubernetes-deployment"
+  },
+  {
+    "id": 5,
+    "title": "Microservices with Spring Cloud",
+    "desc": "Introduction to microservices using Spring Cloud.",
+    "status": "ACTIVE",
+    "contentType": "WEBINAR",
+    "date_created": "2024-09-15T13:20:00",
+    "date_updated": "2024-11-25T10:00:00",
+    "url": "https://example.com/spring-cloud"
+  },
+  {
+    "id": 6,
+    "title": "PostgreSQL Optimization",
+    "desc": "Tips for optimizing queries in PostgreSQL.",
+    "status": "IN_PROGRESS",
+    "contentType": "ARTICLE",
+    "date_created": "2024-12-20T14:45:00",
+    "date_updated": "2024-12-24T18:15:00",
+    "url": "https://example.com/postgresql-optimization"
+  }
+]
